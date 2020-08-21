@@ -1,0 +1,103 @@
+[
+    {
+        "catagory": "Combo Deal",
+        "dishes": [
+            {
+                "name": "Combo 1",
+                "price": "99.00"
+            },
+            {
+                "name": "Combo 2",
+                "price": "199.00"
+            },
+            {
+                "name": "Combo 3",
+                "price": "299.00"
+            }
+        ]
+    },
+    {
+        "catagory": "Appetizers",
+        "dishes": [
+            {
+                "name": "French Fries",
+                "price": "100.00"
+            },
+            {
+                "name": "Masala Wedges",
+                "price": "80.00"
+            }
+        ]
+    },
+    {
+        "catagory": "Noodles",
+        "dishes": [
+            {
+                "name": "Egg Noodles",
+                "price": "80.00"
+            },
+            {
+                "name": "Vegetable Noodles",
+                "price": "110.00"
+            },
+            {
+                "name": "Chicken Noodles",
+                "price": "150.00"
+            }
+        ]
+    },
+    {
+        "catagory": "Pasta",
+        "dishes": [
+            {
+                "name": "Egg Pasta",
+                "price": "120.00"
+            },
+            {
+                "name": "Chicken Pasta",
+                "price": "150.00"
+            },
+            {
+                "name": "Chicken Sausage Pasta",
+                "price": "200.00"
+            }
+        ]
+    },
+    {
+        "catagory": "Chicken Burger",
+        "dishes": [
+            {
+                "name": "Mini Chicken Burger",
+                "price": "90.00"
+            },
+            {
+                "name": "Chicken Burger",
+                "price": "130.00"
+            },
+            {
+                "name": "Chicken Cheese Burger",
+                "price": "160.00"
+            },
+            {
+                "name": "BBQ Chicken Burger",
+                "price": "160.00"
+            },
+            {
+                "name": "BBQ Chicken Cheese Burger",
+                "price": "170.00"
+            },
+            {
+                "name": "BBQ Chicken Cheese Sausage Burger",
+                "price": "200.00"
+            },
+            {
+                "name": "Chicken Cheese Delight Burger",
+                "price": "250.00"
+            },
+            {
+                "name": "AJ Special Chicken Burger",
+                "price": "280.00"
+            }
+        ]
+    }
+]
